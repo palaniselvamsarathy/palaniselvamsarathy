@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-two-umber.vercel.app/](https://website-ebon-psi-22.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://react-portfolio-two-umber.vercel.app/](https://react-portfolio-two-umber.vercel.app/)
 
 - 💬 Ask me about **Python Full stack Development**
 
